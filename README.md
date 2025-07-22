@@ -19,7 +19,7 @@
 
 I'm passionate about structure, clarity, and tools that feel intuitive. Whether it's a script to speed up GitHub or a terminal engine to reduce friction, I'm all about building smarter workflows.
 
-> “Flow isn't a luxury—it's the default when friction is removed.”
+> “Flow isn't a luxury it's the default when friction is removed.”
 
 ---
 
@@ -30,12 +30,5 @@ I'm passionate about structure, clarity, and tools that feel intuitive. Whether 
 
 ---
 
-### Powered by Flow
-
-Built with discipline, vision, and support from my custom AI assistant **Voidbro**, who helps me think, code, and stay sharp.
-
-> _We build together—Streaky + Voidbro._
-
----
 
 _Thanks for stopping by. Stay curious, stay sharp._
