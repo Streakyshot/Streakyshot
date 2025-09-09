@@ -1,34 +1,15 @@
-# Hey, I’m Streakyshot
+# void
 
-> Aspiring cybersecurity expert, developer, and learner on a mission to build tools that empower.
+yes, i made that.
 
----
+i build voidly tools.
 
-### About Me
+if you find value in my work, contribute or collaborate.  
+if you see flaws, point them out — i improve fast.
 
-- 🎯 I’m a self-taught developer focused on creating helpful, efficient tools for developers and cybersecurity learners.
-- 🌱 Currently learning: Git, Bash, Python, Go, and systems programming. Also deepening my Dutch to switch into VWO and study in the U.S.
-- ⚙️ Interests: Red Teaming, automation, terminal workflows, and cybersecurity education.
-- ✨ Future goals: Combine cybersecurity with a medical degree. Multidisciplinary innovation is my zone.
-- 📌 Based in: Netherlands, preparing for university in the U.S.
-- 🔗 I'm building solo projects that simplify learning, boost productivity, and deliver instant value from the command line.
+no ego. no excuses. just better code, every time.
 
----
-
-### What Drives Me
-
-I'm passionate about structure, clarity, and tools that feel intuitive. Whether it's a script to speed up GitHub or a terminal engine to reduce friction, I'm all about building smarter workflows.
-
-> “Flow isn't a luxury it's the default when friction is removed.”
-
----
-
-### Connect
+thank you for stopping by.
 
 - **Dev.to:** [@streakyshot](https://dev.to/streakyshot)
 - **GitHub:** [github.com/Streakyshot](https://github.com/Streakyshot)
-
----
-
-
-_Thanks for stopping by. Stay curious, stay sharp._
